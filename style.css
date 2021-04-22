@@ -1,0 +1,45 @@
+*{
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+    
+}
+
+#about-image{
+    width: 500px;
+    margin: 20px 20px 10px 2px;
+    float: left;
+}
+.block {
+    float: right;
+    width: 50%;
+    white-space: nowrap;
+    
+}
+
+/* NAV START */
+#logo {
+    /* Typography */
+    font-size: 24px;
+    font-weight: bold;
+    color: grey
+  
+  }
+  
+  /* override bootstrap hover color and border */
+  .navbar-default .navbar-nav > li > a:hover {
+    color: #4aaaa5;
+  }
+  
+  .navbar {
+    background: white;
+    border: none;
+  }
+
+
+/* Portfolio style */
+.topic {
+   font-size: 30px;
+   color: black;
+}
+  
